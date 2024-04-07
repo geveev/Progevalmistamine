@@ -1,0 +1,5 @@
+ex -- tetragon_builder
+
+Selles ülesandes on vaja moodustada seest tühi nelinurk antud parameetritega.
+Külgede ehitamiseks kasutame asterikse(*).
+Parameetride ei ole negatiivsed ega null

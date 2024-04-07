@@ -1,0 +1,5 @@
+ex -- Letter_pyramid
+
+Tudeng peab valmistama püramiidi mis kasutab oma ehitus klotsideks sõnes olevaid elemente.
+Püramiidi hakatakse ehitama ülevalt alla, elementide vahel on space.
+Ülevalt alla on igal real 1 element rohkem kui eelmisel.
