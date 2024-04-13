@@ -8,18 +8,23 @@ def letter_triangle(letters):
 
     For example:
     letters("tere õhtust") ==
-                    "         t \n"
-                    "        e r \n"
-                    "       e õ h \n"
-                    "      t u s t"
+    "   t\n"
+    "  e r\n"
+    " e õ h\n"
+    "t u s t"
 
 
     letters("tere hommikust") ==
-                    "            T \n"
-                    "           e r \n"
-                    "          e H o \n"
-                    "         m m i k \n"
-                    "        u s t"
+    "    t\n"
+    "   e r\n"
+    "  e h o\n"
+    " m m i k\n"
+    "u s t"
+
+    letters("12512") ==
+    "  1\n"
+    " 2 5\n"
+    "1 2"
 
     :param letters:
     :return pyramid of letters:
